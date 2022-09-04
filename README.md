@@ -1,6 +1,6 @@
 # DoggySeePlayersTalk
 A basic plugin. To make SCP-939 see the players talking
 
-<img src="https://img.shields.io/github/downloads/LilNesquuik/DoggySeePlayersTalk/total?color=magenta&style=for-the-badge"/>
+<img src="https://img.shields.io/github/downloads/LilNesquuik/DoggySeePlayersTalk/total?color=black&style=for-the-badge"/>
 
 Note: **DoggySeePlayersTalk is only guaranteed to work with Exiled 5.X.X (+)!**
